@@ -1,5 +1,17 @@
 # HolidayApp
 
+This project has been created as a test excecise to created some test regarding the Holiday search 
+UI work on this project is not done.
+Installation of LTI version of node and angular is necessary to run this project.
+After clone this project please run
+=> npm install
+to install all the necessary packages
+all test can be run in the root folder of the project with the command 
+=> ng test
+to run all the tests
+**********************************************************************************************************
+Thanks
+*********************************************************************************************************
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
 ## Development server
